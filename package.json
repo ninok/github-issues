@@ -1,0 +1,14 @@
+{
+  "name": "github-issues",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node queryIssues.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.2",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.6.2"
+  }
+}
